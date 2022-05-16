@@ -1,0 +1,399 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6138561de46a0e80f99781b0a5652b64\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0f3b15dcc0d26f7b960c6ac1a286f519\transformed\navigation-fragment-ktx-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8d013dc63082b0b3b819934127bf9ca5\transformed\jetified-navigation-dynamic-features-fragment-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a95cafefef438fb9994516d2a4f2f04c\transformed\navigation-fragment-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\977739fbd4a26a4898032465a840d394\transformed\jetified-fragment-ktx-1.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3281bb77223e5627ccab72ab4bda2201\transformed\jetified-navigation-dynamic-features-runtime-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\99d24de98a98d5644ff3543f4405826f\transformed\navigation-ui-ktx-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0ab50698e9ffdb5532c00339061efdc6\transformed\navigation-ui-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0c60e5b8f0e910fdf01d4e7c003a56fa\transformed\navigation-runtime-ktx-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\f32a3eed447d9e175dbb46b9a8a55a06\transformed\navigation-runtime-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ee57a06fb863c247914e7e292732e8ba\transformed\jetified-activity-ktx-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime:3.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7161dc5d85ba23e2c4d14dac53b34630\transformed\paging-runtime-3.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\2acf45605bd98a73894071065f855354\transformed\navigation-common-2.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\e56ab92b8d75147232bb3f1f79d4ea71\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\9385abd64bf5ed5cafceb0f9c969d51b\transformed\jetified-lifecycle-runtime-ktx-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\40ff42b08c53b3ed2f5d85a40829eb24\transformed\jetified-room-ktx-2.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d2fccc3848fae59dd673e6a827ba5f93\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\76dda23dc906aa743410797f748fa5de\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.6.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\cbd6f3a61449087808fee660a6cf1e7e\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0b6534fdbca70b3798b6f594f78f0541\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\e481aee16a7e68d41e2a354e17bdc376\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\b71ab0e2cef98ba5c29084228420b409\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.dagger:hilt-android:2.42] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c56ee1575c4b54701fd3db951f7f432c\transformed\jetified-hilt-android-2.42\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ea8fdb0894211315bf3d1d6a56dbf383\transformed\jetified-glide-4.13.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\753bb25edd2e7ff73458936164efe3f1\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8a6744b282e0a58a858669e667aa7e8f\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\f16b294c9acbbe2226d6080fcc63b701\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ffec31d23fcb30b926379b33d52ee9f3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\fcea359cae983ea45bdc3624939573b6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\79acf83cd163cf78aaf47e8bba626ee1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\46ab1a5de965fe809906fda864256ad4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\250b99cf5ad687cae99aa58f3c6e2a77\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\93aadce77061a0a91f32ceb9c82f9c45\transformed\fragment-1.4.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c5b09a984634e609f45418639cafca02\transformed\jetified-activity-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\247e89a99f6ca9065b222e2f1d96adbb\transformed\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a99bcb31fd00f00eb57733d77e2d7450\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\4bc2f8b243d8da7e3cf54b764d8fd339\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\43ddb64627466298d691b922cf45a0ba\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\869772f6cae71baaecf76128030ac507\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1a2b696627015a51dee496a18845b1a5\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\bc1b95205cc67cb79a262b60a30319bd\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8607c19bc28f3c71a295bebb99a3d337\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a830aae3dff4146c53ba045e58bd866f\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\44643ab80bed2c072f00768b7c2442f0\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\28fb47c3647ce4e492653b2e74d77ac0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8a18c5e0e4faa3f54314b193a3dbfc5f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\eae35ad0020fb1944433e4f21d718ec9\transformed\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\89a4ca9d5cf61f8b787a92d22ec525e6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\4b2e7cb309644de19d67ebdaae6fce7c\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\2b10fea1399217a53ea44bfa39ab5068\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\493c8de84dfd702c80e816edf307072d\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\51af05f8ab5bc26626b2606fffae7d79\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d91cfe6be54091ec173ca555541635ea\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6c374d7ade9904cf3fbe81ba36484a9a\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6dda176d3f1ce755823bc4d50288c6c1\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ad80de12d0ea08aaf2775f66af8c5b86\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\9181dcc79bcdf6f9c8f8e53a65eeed99\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3c8e6f10ace08a97bc099b66152a2086\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0d2a1f805b3a7b1dde1f983e7d2da42c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1f112555ebc6f24c290ccfab8fc8e572\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\68c19602a4b710724e861980da31d3bf\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c1ee3420f3628d846ffdbe0364cc7656\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ce9b9baa9cbb2a8f7502394b6ef3772d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a03eb36c7838a5ab60db188d38d0a4c6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ff3258610b88fe11c3b68bf7e791a8b5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8cb624d158f2a9b9f5cd3f7cf2def781\transformed\jetified-dagger-lint-aar-2.42\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.google.android.material:material:1.6.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\cbd6f3a61449087808fee660a6cf1e7e\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\cbd6f3a61449087808fee660a6cf1e7e\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0b6534fdbca70b3798b6f594f78f0541\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0b6534fdbca70b3798b6f594f78f0541\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\b71ab0e2cef98ba5c29084228420b409\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\b71ab0e2cef98ba5c29084228420b409\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ea8fdb0894211315bf3d1d6a56dbf383\transformed\jetified-glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ea8fdb0894211315bf3d1d6a56dbf383\transformed\jetified-glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\bc1b95205cc67cb79a262b60a30319bd\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\bc1b95205cc67cb79a262b60a30319bd\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ad80de12d0ea08aaf2775f66af8c5b86\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ad80de12d0ea08aaf2775f66af8c5b86\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3c8e6f10ace08a97bc099b66152a2086\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3c8e6f10ace08a97bc099b66152a2086\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1f112555ebc6f24c290ccfab8fc8e572\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1f112555ebc6f24c290ccfab8fc8e572\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:10:3-21:17
+MERGED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:10:3-21:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\bc1b95205cc67cb79a262b60a30319bd\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:14:9-53
+	android:name
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:8:9-38
+activity#com.engin.zedgeassignment.ui.MainActivity
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:16:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.engin.zedgeassignment.ui.ImageDetailActivity
+ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml:24:19-57
+uses-sdk
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.4] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6138561de46a0e80f99781b0a5652b64\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6138561de46a0e80f99781b0a5652b64\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0f3b15dcc0d26f7b960c6ac1a286f519\transformed\navigation-fragment-ktx-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0f3b15dcc0d26f7b960c6ac1a286f519\transformed\navigation-fragment-ktx-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8d013dc63082b0b3b819934127bf9ca5\transformed\jetified-navigation-dynamic-features-fragment-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8d013dc63082b0b3b819934127bf9ca5\transformed\jetified-navigation-dynamic-features-fragment-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a95cafefef438fb9994516d2a4f2f04c\transformed\navigation-fragment-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a95cafefef438fb9994516d2a4f2f04c\transformed\navigation-fragment-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\977739fbd4a26a4898032465a840d394\transformed\jetified-fragment-ktx-1.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\977739fbd4a26a4898032465a840d394\transformed\jetified-fragment-ktx-1.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3281bb77223e5627ccab72ab4bda2201\transformed\jetified-navigation-dynamic-features-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3281bb77223e5627ccab72ab4bda2201\transformed\jetified-navigation-dynamic-features-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\99d24de98a98d5644ff3543f4405826f\transformed\navigation-ui-ktx-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\99d24de98a98d5644ff3543f4405826f\transformed\navigation-ui-ktx-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0ab50698e9ffdb5532c00339061efdc6\transformed\navigation-ui-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0ab50698e9ffdb5532c00339061efdc6\transformed\navigation-ui-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0c60e5b8f0e910fdf01d4e7c003a56fa\transformed\navigation-runtime-ktx-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0c60e5b8f0e910fdf01d4e7c003a56fa\transformed\navigation-runtime-ktx-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\f32a3eed447d9e175dbb46b9a8a55a06\transformed\navigation-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\f32a3eed447d9e175dbb46b9a8a55a06\transformed\navigation-runtime-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ee57a06fb863c247914e7e292732e8ba\transformed\jetified-activity-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ee57a06fb863c247914e7e292732e8ba\transformed\jetified-activity-ktx-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7161dc5d85ba23e2c4d14dac53b34630\transformed\paging-runtime-3.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7161dc5d85ba23e2c4d14dac53b34630\transformed\paging-runtime-3.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\2acf45605bd98a73894071065f855354\transformed\navigation-common-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\2acf45605bd98a73894071065f855354\transformed\navigation-common-2.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\e56ab92b8d75147232bb3f1f79d4ea71\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\e56ab92b8d75147232bb3f1f79d4ea71\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\9385abd64bf5ed5cafceb0f9c969d51b\transformed\jetified-lifecycle-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\9385abd64bf5ed5cafceb0f9c969d51b\transformed\jetified-lifecycle-runtime-ktx-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\40ff42b08c53b3ed2f5d85a40829eb24\transformed\jetified-room-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\40ff42b08c53b3ed2f5d85a40829eb24\transformed\jetified-room-ktx-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d2fccc3848fae59dd673e6a827ba5f93\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d2fccc3848fae59dd673e6a827ba5f93\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\76dda23dc906aa743410797f748fa5de\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\76dda23dc906aa743410797f748fa5de\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\cbd6f3a61449087808fee660a6cf1e7e\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\cbd6f3a61449087808fee660a6cf1e7e\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0b6534fdbca70b3798b6f594f78f0541\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0b6534fdbca70b3798b6f594f78f0541\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\e481aee16a7e68d41e2a354e17bdc376\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\e481aee16a7e68d41e2a354e17bdc376\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\b71ab0e2cef98ba5c29084228420b409\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\b71ab0e2cef98ba5c29084228420b409\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.42] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c56ee1575c4b54701fd3db951f7f432c\transformed\jetified-hilt-android-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.42] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c56ee1575c4b54701fd3db951f7f432c\transformed\jetified-hilt-android-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ea8fdb0894211315bf3d1d6a56dbf383\transformed\jetified-glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ea8fdb0894211315bf3d1d6a56dbf383\transformed\jetified-glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\753bb25edd2e7ff73458936164efe3f1\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\753bb25edd2e7ff73458936164efe3f1\transformed\jetified-appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8a6744b282e0a58a858669e667aa7e8f\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8a6744b282e0a58a858669e667aa7e8f\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\f16b294c9acbbe2226d6080fcc63b701\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\f16b294c9acbbe2226d6080fcc63b701\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ffec31d23fcb30b926379b33d52ee9f3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ffec31d23fcb30b926379b33d52ee9f3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\fcea359cae983ea45bdc3624939573b6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\fcea359cae983ea45bdc3624939573b6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\79acf83cd163cf78aaf47e8bba626ee1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\79acf83cd163cf78aaf47e8bba626ee1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\46ab1a5de965fe809906fda864256ad4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\46ab1a5de965fe809906fda864256ad4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\250b99cf5ad687cae99aa58f3c6e2a77\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\250b99cf5ad687cae99aa58f3c6e2a77\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\93aadce77061a0a91f32ceb9c82f9c45\transformed\fragment-1.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha02] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\93aadce77061a0a91f32ceb9c82f9c45\transformed\fragment-1.4.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c5b09a984634e609f45418639cafca02\transformed\jetified-activity-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c5b09a984634e609f45418639cafca02\transformed\jetified-activity-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\247e89a99f6ca9065b222e2f1d96adbb\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\247e89a99f6ca9065b222e2f1d96adbb\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a99bcb31fd00f00eb57733d77e2d7450\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a99bcb31fd00f00eb57733d77e2d7450\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\4bc2f8b243d8da7e3cf54b764d8fd339\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\4bc2f8b243d8da7e3cf54b764d8fd339\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\43ddb64627466298d691b922cf45a0ba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\43ddb64627466298d691b922cf45a0ba\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\869772f6cae71baaecf76128030ac507\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\869772f6cae71baaecf76128030ac507\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1a2b696627015a51dee496a18845b1a5\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1a2b696627015a51dee496a18845b1a5\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\bc1b95205cc67cb79a262b60a30319bd\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\bc1b95205cc67cb79a262b60a30319bd\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8607c19bc28f3c71a295bebb99a3d337\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8607c19bc28f3c71a295bebb99a3d337\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a830aae3dff4146c53ba045e58bd866f\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a830aae3dff4146c53ba045e58bd866f\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\44643ab80bed2c072f00768b7c2442f0\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\44643ab80bed2c072f00768b7c2442f0\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\28fb47c3647ce4e492653b2e74d77ac0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\28fb47c3647ce4e492653b2e74d77ac0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8a18c5e0e4faa3f54314b193a3dbfc5f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8a18c5e0e4faa3f54314b193a3dbfc5f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\eae35ad0020fb1944433e4f21d718ec9\transformed\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\eae35ad0020fb1944433e4f21d718ec9\transformed\lifecycle-viewmodel-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\89a4ca9d5cf61f8b787a92d22ec525e6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\89a4ca9d5cf61f8b787a92d22ec525e6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\4b2e7cb309644de19d67ebdaae6fce7c\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\4b2e7cb309644de19d67ebdaae6fce7c\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\2b10fea1399217a53ea44bfa39ab5068\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\2b10fea1399217a53ea44bfa39ab5068\transformed\lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\493c8de84dfd702c80e816edf307072d\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\493c8de84dfd702c80e816edf307072d\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\51af05f8ab5bc26626b2606fffae7d79\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\51af05f8ab5bc26626b2606fffae7d79\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d91cfe6be54091ec173ca555541635ea\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d91cfe6be54091ec173ca555541635ea\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6c374d7ade9904cf3fbe81ba36484a9a\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6c374d7ade9904cf3fbe81ba36484a9a\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6dda176d3f1ce755823bc4d50288c6c1\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\6dda176d3f1ce755823bc4d50288c6c1\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ad80de12d0ea08aaf2775f66af8c5b86\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ad80de12d0ea08aaf2775f66af8c5b86\transformed\jetified-gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\9181dcc79bcdf6f9c8f8e53a65eeed99\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\9181dcc79bcdf6f9c8f8e53a65eeed99\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3c8e6f10ace08a97bc099b66152a2086\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3c8e6f10ace08a97bc099b66152a2086\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0d2a1f805b3a7b1dde1f983e7d2da42c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\0d2a1f805b3a7b1dde1f983e7d2da42c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1f112555ebc6f24c290ccfab8fc8e572\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\1f112555ebc6f24c290ccfab8fc8e572\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\68c19602a4b710724e861980da31d3bf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\68c19602a4b710724e861980da31d3bf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c1ee3420f3628d846ffdbe0364cc7656\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c1ee3420f3628d846ffdbe0364cc7656\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ce9b9baa9cbb2a8f7502394b6ef3772d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ce9b9baa9cbb2a8f7502394b6ef3772d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a03eb36c7838a5ab60db188d38d0a4c6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\a03eb36c7838a5ab60db188d38d0a4c6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ff3258610b88fe11c3b68bf7e791a8b5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\ff3258610b88fe11c3b68bf7e791a8b5\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8cb624d158f2a9b9f5cd3f7cf2def781\transformed\jetified-dagger-lint-aar-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\8cb624d158f2a9b9f5cd3f7cf2def781\transformed\jetified-dagger-lint-aar-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:4:3-70
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projeler\ZedgeAssignment\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.2] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\5b0685ad1a1b5827fd13eaea5daacc53\transformed\room-runtime-2.4.2\AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3c8e6f10ace08a97bc099b66152a2086\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\3c8e6f10ace08a97bc099b66152a2086\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\7a724d16c8b9c697c55968ba0e75de8a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\d71a3997f371fcfe8610ca4f3376c24e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:5-18:15
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:16:14-95
+meta-data#com.google.android.play.core.assetpacks.versionCode
+ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:7-108
+	android:value
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:85-106
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:17:18-84
+service#com.google.android.play.core.assetpacks.ExtractionForegroundService
+ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:5-147
+	android:enabled
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:97-120
+	android:exported
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:121-145
+	android:name
+		ADDED from [com.google.android.play:core:1.9.1] D:\Program Files\Android\Android Studio Canary\plugins\gradle\lib\caches\transforms-3\c95a773b1069bf49be9d5c4534db1e6f\transformed\jetified-core-1.9.1\AndroidManifest.xml:19:14-96

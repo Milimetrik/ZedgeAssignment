@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/MyTabTextCapsAppearance</item>
+        <item name="tabSelectedTextColor">@color/black</item>
+        <item name="tabTextColor">@color/black</item>
+<!--        <item name="tabIndicatorColor">@color/colorOrangeMain</item>-->
+<!--        <item name="tabRippleColor">@color/colorOrangeMain</item>-->
+    </style>
+
+    <style name="MyTabTextCapsAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+    </style>
+
+</resources>
